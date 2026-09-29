@@ -1,4 +1,4 @@
-This project has been created as part of the 42 curriculum by alnassar.
+*this project was done by alnassar..*
 
 # C++ - Module 08: Templated Containers, Iterators and Algorithms
 
